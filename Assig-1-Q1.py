@@ -1,3 +1,12 @@
+
+# Write a Python program that reads the CSV file and outputs the following information:
+# The total number of interactions in the file.
+# The total number of unique users in the file.
+# The most visited URL in the file.
+# The average time spent on each URL.
+
+
+
 import pandas as pd
 
 file_path = input("Enter the file path : ")
